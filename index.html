@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Interface</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <div>
+        <img class="logo" src="./assets/logo.jpg"/>
+        <p class="heading">Making your Queries simplified</p>
+    </div>
+    <div id="chat-container">
+        <textarea id="chat-output" class="chat-output" rows="10" readonly></textarea>
+        <div class="input-container">
+            <input type="text" id="user-input" class="user-input" placeholder="Type your message...">
+            <button id="send-button" class="send-button" onclick="sendMessage()">Send</button>
+        </div>
+
+    </div>
+
+</div>
+
+
+<script>
+    function sendMessage() {
+        const userInput = document.getElementById('user-input').value;
+        document.getElementById('user-input').value = '';
+        document.getElementById('user-input').disabled = true;
+        document.getElementById('send-button').disabled = true;
+
+
+        fetch('http://localhost:4000/ask/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ question: userInput })
+        })
+        .then(response => response.json())
+        .then(data => {
+            const chatOutput = document.getElementById('chat-output');
+            chatOutput.value += "User: " + userInput + '\n\n';
+            chatOutput.scrollTop = chatOutput.scrollHeight;
+
+            chatOutput.value += "Retriever: " + data.answer + '\n\n';
+            chatOutput.scrollTop = chatOutput.scrollHeight;
+            document.getElementById('user-input').disabled = false;
+            document.getElementById('send-button').disabled = false;
+        })
+        .catch(error => {
+        console.error('Error:', error);
+        document.getElementById('user-input').disabled = false;
+        document.getElementById('send-button').disabled = false;
+        });
+    }
+</script>
+</body>
+</html>

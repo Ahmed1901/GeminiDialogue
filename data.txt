@@ -1,0 +1,357 @@
+
+
+
+Exabyting
+Attendance
+How to provide attendance at Exabyting
+	•	You need to sign in & sign out at the Aladin app.
+
+What to do if I don’t have any smartphone
+Send email to admin@exabyting.com. You will receive instructions based on your situation.
+
+Leave request
+How to take a leave
+	•	Inform your line manager first when you know you need to leave. If s/he approves, proceed to step # 2
+	•	Request your leave on the Aladin app.
+How to take a leave (bKash)
+[Please check HERE for bKash leave instructions]
+
+What to do if I don’t have a smartphone
+Send email to admin@exabyting.com. You will receive instructions based on your situation. 
+How many leaves can I take in a year?
+	•	Exabyting currently has an open leave policy. Your lead will grant your leave by confirming the following entities are unhampered for the duration of your leave:
+	•	Team
+	•	Exabyting
+	•	Partner
+	•	However, if your situation demands to override all the other priorities, we will try to accommodate it accordingly.
+How do you take paternity/maternity leave?
+	•	We currently do not have any guidelines for that. However, we have an open leave policy. Please follow the usual procedure for taking leave in this case.
+Asset request (5 working days)
+How to request an IT asset, e.g., mouse, keyboard
+	•	Inform your line manager first to discuss your requirements. If s/he approves, proceed to step # 2
+	•	Mail to “it@exabyting.com”, keeping your line manager in CC.
+	•	It takes 5-15 working days to deliver the asset to your provided address.
+	•	After receiving the product, update the main thread (refer to step #2) with the asset's serial number & images of all the sides.
+How to request a laptop/ access card (bKash)
+	•	Inform your line manager first to discuss your requirements. If s/he approves, proceed to step # 2
+	•	Mail to “it@exabyting.com,” keeping your line manager in CC.
+	•	Inform your delivery lead.
+	•	After receiving the product, provide an update on the main thread (refer to step #2) with the serial number & images of all the sides for the following items:
+	•	Laptop
+	•	Charger
+	•	Laptop’s bag
+	•	ID/ Entry card
+How to hand over an asset
+	•	Inform your line manager first to discuss your reason for the asset handover. If s/he approves, proceed to step # 2
+	•	Mail to “it@exabyting.com,” keeping your line manager & the one you are doing the handover to in CC & share the asset's serial number & images of all the sides.
+	•	Please follow the mentioned steps for reimbursement for any costs involved in the handover process.
+How to receive an asset handover from someone
+	•	Inform your line manager first to discuss your reason for receiving the asset handover. If s/he approves, proceed to step # 2.
+	•	After receiving the asset, send an update (reply all) on the same mail thread initiated by the sender to “it@exabyting.com” & share the asset's serial number, images of all the sides & observations (if any) regarding the asset, e.g., scratch, fault, etc.
+	•	Please follow the mentioned steps for reimbursement for any costs involved in the handover process.
+How to report an IT issue, e.g., Team/Confluence/Jira/Intellij license/Github/anything else in the same category.
+	•	Mail to “it@exabyting.com,” keeping your line manager in CC.
+	•	It might take 3-5 working days to complete your request.
+How to request a VPN/Email/JIRA/Confluence/Github/Intellij license/anything else in the same category.
+	•	Mail to “it@exabyting.com,” keeping your line manager in CC.
+	•	It might take 3-5 working days to complete your request.
+How to request a VPN/Email/JIRA/Confluence/Slack/Intellij license (bKash)
+	•	Request your Delivery lead for help. Also, keep your line manager informed.
+How to report a hardware malfunction issue, e.g., Laptop
+	•	Mail to “it@exabyting.com,” keeping your line manager in CC.
+	•	If the asset is changed, please update the main thread (refer to step #1) with the Laptop, charger & laptop bag’s serial number & images of all the sides.
+	•	For reimbursement for any costs involved in the hardware maintenance, please follow the steps mentioned in “How to submit a bill to the office.”
+Financial request (10 working days)
+How to submit a bill to the office
+	•	Mail to “accounts@exabyting.com,” keeping your Line manager in CC. To confirm your line manager, please visit Distributions by leads.
+	•	This process takes 5-10 working days for approval & disbursement.
+How to apply for a loan/advance to the office
+	•	Mail to “accounts@exabyting.com,” keeping your Line manager in CC. Mention the following things:
+	•	Amount
+	•	Adjustment policy:
+	•	Immediately on the next salary
+	•	EMI:
+	•	The starting month of the installment should not be later than three months from initiation.
+	•	Number of months
+	•	This process might take up to 10 working days for approval & disbursement.
+	•	At any given time, an employee can have a total outstanding loan of up to 2.4 times their gross salary.
+	•	The maximum tenure of the loan can be 24 months.
+How to submit a health claim
+	•	Please use the Health claim portal to submit any relevant claim. The due date for submission is the 15th of every month. You can only include the claims from the 15th of the former month to the 14th of the current month. In case of any delay than the 15th of the current month, please follow the steps mentioned in “How to submit a health claim if the date is over.”
+	•	If you do not have the credentials, please mail them to it@exabyting.com.
+	•	You always need to submit proper receipts for any health claim, which include the following:
+	•	Items you brought / services you have taken
+	•	Following info of the service provider:
+	•	Name
+	•	Address
+	•	Contact number
+What is the limit of the health claim?
+	•	You can receive 50% of the submitted health claim or 2,500 BDT, whichever is lower, every month. Let's see two such use cases:
+	•	You submitted receipts for 4,000 BDT, and you will receive 2,000 BDT, which is 50% of 4,000.
+	•	If you submit receipts for 6,000 BDT, you will receive 2,500 BDT, the maximum eligible amount in a month.
+Where can I find the list of eligible family members for health claims?
+	•	Here it goes:
+	•	Employee
+	•	Spouse
+	•	Children
+	•	Parents
+	•	Parents-in-law
+How to submit a health claim if the date is over
+	•	Is your claim more than two months old from the current cycle’s last submission date? In that case, we will not be able to proceed with it. Otherwise, as you are late in the submission, please proceed with the following steps.
+	•	First, submit the claim following the steps in “How to submit a health claim.”
+	•	Mail to “accounts@exabyting.com,” keeping your line manager in CC.
+	•	Please be informed that we cannot include the claim in your current month’s salary. It will be included in your next month’s salary.
+How to request/apply for a health claim from the fund
+	•	Discuss the situation as early as possible with your Exabyting Lead. The discussion mentions the following:
+	•	Who is sick?
+	•	The total expense you have already done.
+	•	How much total cost can you afford by yourself?
+	•	How much of the total cost can you afford a loan with 24 months EMI from Exabyting?
+	•	How much of the amount do you need to have as a contribution?
+	•	After concluding with the above points, please email “accounts@exabyting.com,” keeping your line manager in CC. Please mention all the information from 1A to 1E listed above and related attachments (Prescription & payment receipts). This funding will only cover hospitals & medication expenses with valid paper trails.
+	•	It is not guaranteed to receive funding against an application. You may receive full, partial, or even no budget. The approval committee will assess the request & decide accordingly. They might also request further documents if deemed required.
+	•	Getting a resolution on your request might take up to 15 working days. We request your sincere patience during the assessment period.
+	•	If approved, confirm on the thread once you receive the amount.
+Benefit
+Referral
+	•	How do you refer to someone?
+To receive a referral bonus for a candidate, please send an email to career@exaybting.com. Without this email, we won't be able to recognize your referral.
+	•	What is the amount of the referral bonus?
+The referral bonus amount is 25,000 BDT, which will be given for every successful referral recruitment.
+	•	What will happen If multiple people refer to the same candidate?
+We will consider the candidate referred by the person who mails first in case of multiple references.
+	•	What will happen if the referred candidate is already inside our recruitment process?
+If the candidate being referred is already in our recruitment process, it will not be considered a referral.
+	•	Are there any other things I should know about?
+This bonus is exclusively for those who refers ‘software engineers’ with over two years post-graduation experience.
+	•	How to claim the referral bonus?
+To claim the referral bonus, employees need to send an email with the original email thread that was used to refer the candidate. After confirmation from the relevant team, the employee will receive the referral bonus within 10 working days. Please keep in mind that this bonus is considered taxable income and appropriate tax deductions will be made.
+Health Care
+How to subscribe/unsubscribe from our healthcare partner
+	•	Mail to “admin@exabyting.com,” keeping your line manager in CC.
+How to contact our telemedicine partner
+	•	Please call 01739316167. Please inform your line manager if they do not respond in four hours.
+How to provide feedback regarding our telemedicine partner
+	•	Mail to “admin@exabyting.com,” keeping your line manager in CC.
+
+For which members can I use the telemedicine facility?
+You can utilize the telemedicine facility for the following family members:
+	•	Spouse
+	•	Children
+	•	Parents
+	•	Parents in laws
+How do I subscribe/unsubscribe to my family member's recharge facility?
+	•	Employees are requested to update their Aladin app profile, and our admin will be able to manage recharge and internet facilities for you and your relatives through these app updates.
+	•	If you encounter any challenges or problems, please mail to “admin@exabyting.com” keeping your line manager in CC.
+
+How to apply for a children's allowance?
+Mail to admin admin@exabyting.com with the bank details of your spouse.
+
+What is the amount of the children's allowance?
+Regardless of the number of children, it is 2,500 BDT / employee.
+
+My spouse doesn’t have a bank account. Can I take the children's allowance into my account?
+Unfortunately, no, we can only disburse it to your spouse’s bank account.
+Are there any dormitory/hostel facilities in Exabyting?
+Yes, we have dormitory facilities named Exanest. However, till now, we have 16 seats there to live. To make living more comfortable for all, we have accounted for several rules to avail of these benefits.
+How can I book a seat for myself?
+Very easy. These are steps and points to decide and confirm your living in Exanest.
+	•	First, employees have to book seats by the calendar. (Click here to know how to take reservations on the calendar).
+	•	We have 16 seats available in Exanest. 1-5 no. the seat is in the Master Bedroom, 6-8 is in the room beside the master bedroom, 9-11 is in the guest bedroom, and 12-16 is in the Common room. Officially, beds should be allocated by the booking serial.
+	•	We have a limitation of providing good quality of service. To ensure efficient use of every benefit, we request all employees to book their seats with an exact plan for living. Every month all the employees have to book seats.
+	•	Whoever plans to live in Exanest has to submit their two copies of Passport photo and one color copy of Voter ID to the support staff.
+Is there anything I should follow for comfortable living?
+No worries. No tough rules can give you a feeling of school life. However, we have some recommendations for you -
+	•	Please do not use the rooftop in any need without permission.
+	•	Please do not make any noises that may bother others for a living.
+	•	Employees can use the locker only when they live there.
+	•	Pets are not allowed in the dormitory.
+	•	Employees are required to keep their rooms neat and clean. All of us can not depend on or be liable for supporting staff only to keep the room clean.
+	•	Employees should dispose of their trash in designated areas.
+	•	To book the meal in Exanest, employees can use this link.
+
+Can I keep my guest in Exanest?
+Yes. you can, but considering the conditions below.
+	•	Employees need to submit the guest's NID and current & permanent address through email (admin@exabyting.com & syduzzaman@exabyting.com ).
+	•	Prior approval is required to allow any guest for a night stay by one working day.
+	•	No guest can stay more than one day & in total, two nights, a guest can stay for each residence in a calendar month.
+	•	Employees must provide an undertaking to assume all responsibility & mishap of the guests. And if any damage occurs, it will be deducted from the employee.
+Office Transportation
+ A. Office transportation
+Exabyting will provide office transportation If -   	1. A minimum of three employees apply for a new route.
+2. Minimum 90 rides completed in a month on your route.
+3. The pickup & drop-off spot is in the Dhaka metropolitan area.
+To do so, employees mail exaport@exabyting.com to avail of the service. Please mention your pickup spot.  Q. What will happen if the office transport does not come on time or does not come at all or faces any issue in the middle? 	A. You will get a reimbursement as per the distance of the residence. We will provide 10 BDT / KM. You will get the amount in your salary automatically. However, if you find any mismatch, please email exaport@exabyting.com for rectification.  Q. What if I do not want to take the transportation? Will I be eligible for a transportation allowance?
+	•	No.
+Q. What if I want to take an alternative transportation on only a given day? Will I be eligible for a transportation allowance?
+	•	No.
+ Q. Office transportation does not come to my doorstep. What to do in that case?
+	•	You will get a reimbursement for the distance of the residence & the pickup drop-off spot. We will provide 10 BDT / KM. You will get the amount in your salary automatically. However, if you find any mismatch, please email to exaport@exabyting.com for rectification.
+
+Q. How does Exabyting count the ride?  	A. Rides are when a passenger steps into the car in any direction. As an example:
+
+	•	One passenger to the office is one ride.
+	•	Three passengers to the office are three rides.
+	•	Two passengers to the office & return home for four rides. 
+Q. What will happen if my route’s average ride per month goes below 90 rides/month?
+It is too expensive for us to continue a route with less than 90 rides/month consumption. So we will periodically monitor this & if this goes down below 90 rides /month in the last three months, we will discontinue this route.
+Q. What will happen if my route’s average ride per month goes below 90 rides/month?
+It is too expensive for us to continue a route where the consumption is lower than 90 rides/month. So we will periodically monitor this & if this goes down below 90 rides /month in the last three months, we will discontinue this route.
+Q. How do I avail myself of transportation in case I need to go to the office on holiday?
+You can mail to exaport@exabyting.com. Exabyting will try to arrange transportation. In case we can’t avail of the transportation, please mail on the same thread for the transportation allowance.
+B. Monthly refueling by Exabyting  (Currently we are providing transport allowance instead)
+Any employee who / whose family member owns a transport & utilizes that as their office transportation is eligible for this benefit.
+To avail of this benefit, the employee has to mail to exaport@exabyting.com with the following documents:
+	•	Vehicle ownership document.
+	•	A document that ties the relationship between you & the vehicle owner.
+	•	Google map pin link for your residence.
+	•	A utility bill that supports your location. The utility bill name is not relevant in this case.
+
+The Admin team will communicate with you monthly to refuel your vehicle in two slots/month.
+
+Q. What will happen if the vehicle is not in my name or any of my family member’s name?
+	•	You will not be eligible for this facility.
+
+Q. Is there any relevance to my working day in a month?
+	•	Yes, this is a post-paid facility. So, in November, you will get the amount based on your working days in October. 
+Q. Will the office arrange the parking of my vehicle?
+	•	Yes, we will arrange parking of your vehicle inside Mohakhali DOHS.
+Q. Exabyting offers transportation on my route; will I still be eligible?
+	•	Yes.
+
+C. Transport allowance
+If Exabyting couldn’t offer any transportation in your area, and you’re doing physical office, then you are eligible for Transportation Allowances.
+To avail of this benefit -
+	•	The employee has to mail to exaport@exabyting.com with the following documents:
+	•	Google map pin link for your residence.
+	•	A utility bill that supports your location. The utility bill name is not relevant in this case.
+	•	This is a post-paid facility. And the allowances will be disbursed before the 20th day of the following month. For example, in November, you will get the amount based on your working days in October.
+	•	To get the allowances, a form will be shared in in slack channel, and the respective individual should have to fill that up.
+	•	The allowance is 10 BDT / KM.
+
+Q. The allowance does not cover the trip expense. How to increase the amount?
+	•	We have designed the facility by the end of Q3 of 2023. We have tried our best to accommodate this on the budget.
+We request your understanding of the intention of staying beside all of your needs from the Organization’s side here even though it is the end of the year. Let's start here; we will keep an eye on improving it further.
+Q. Is there any relevance to my working day in a month?
+	•	Yes, this is a post-paid facility. So, in November, you will get the amount based on your working days in October.
+
+Does Exabyting pay for working in the holidays?  Martian allowances
+Yes, and we call it Martian Allowances.  if you work on public holidays & the weekends, you will get paid on the following manners -
+	•	If the Extra Working Days monthly count is <3 (up to two), the payment will be 1.5 times the daily gross.
+	•	If the Extra Working Days monthly count is >2 & <5 (three to four), the payment will be two times the daily gross.
+	•	If the Extra Working Days monthly count is >4 (more than four), then the payment will be 2.25 times of the daily gross.
+How can you claim these allowances?
+	•	bKash: mail to accounts@exabyting, keeping bKash DL & TL in CC for approval. DL’s approval is required.
+	•	 All other partners: please ask your lead for approval by mailing & keep admin on the CC.
+
+In all cases, you will receive the amount before the 20th day of the following month, So for July’s extra working days, you will receive the payment before the 20th of August.
+
+Aurora borealis allowance
+ What is the Aurora allowance? Aurora borealis allowance refers to those who work during the night for releases. This allowance is BDT 1,000 / release.  How can you claim these allowances?
+	•	bKash: mail to accounts@exabyting, keeping bKash DL & TL in CC for approval. DL’s approval is required.
+	•	 All others: Mail to accounts@exabyting.com, keeping TL & Project manager in CC. The project manager’s approval is required to proceed.
+
+*One day's salary: Monthly gross salary / 22.
+Miscellaneous
+How to request/discuss something that is not listed here
+	•	Please consult with your line manager & ask them to add an entry here for future reference.
+How can I know in detail about the review process of a consultant?
+	•	The full process can be found in this diagram.
+How to declare resignation?
+	•	Please consult with your line manager.
+	•	Mail to “admin@exabyting.com” & your line manager.
+	•	Mention the following information in the email:
+	•	The official rule is to send the resignation letter, keeping the mentioned termination period of the contract in your hand. Please share the last working day date if you have any different preferences. However, we can't guarantee to follow your choice even after our best attempt.
+	•	The official rule is to hand over the asset (If any) before the last salary disbursement. If you have any different asset handover preferences, please share your suggestions. However, we can't guarantee to follow your choice even after our best attempt.
+	•	The official rule is to adjust any loan (If any) before the last salary disbursement. If you have any different loan adjustment preferences, please share your suggestions. However, we can't guarantee to follow your choice even after our best attempt.
+	•	Required documents you would like to have on your last day. To know the list of documents we usually provide, please contact admin.
+Contributor Fund
+Q: What is the contribution fund in Exabyting?
+A: The contribution fund in Exabyting is a fund that is set up to assist individuals. Fund was developed during the time of the COVID-19 period.
+Q: How do I apply for a needy person?
+A: To apply for a needy person, one can reach out on Exabyting's Slack channel and kindly mention the reason for seeking support. The dedicated team members at Exabyting will carefully analyze the situation and determine the best way to extend help. An example is shown below.
+
+আস্সালামুআলাইকুম,
+আমার এলাকার পরিচিত ছোট ভাই রাকিব। বয়স ২২ বছর, সে বিগত ২ বছর যাবত ক্যান্সারে আক্রান্ত হয়ে চিকিৎসাধীন আছে। তার ছোট বেলায় বাবা মারা গেছে। বাড়িতে বাবার সম্পত্তি বিক্রি, গ্রামবাসীর অনুদান ও আল্লাহর সাহায্যে এই পর্যন্ত ১৫ লাখের ও বেশি খরচ হয়েছে। কিন্তু সে এখন মোটামোটি সর্বহারা। সে আমাকে তার মেডিক্যাল ডকুমেন্টস গুলো পাঠিয়েছে। সাহায্যপ্রার্থী। আমাদের ফান্ড থেকে কি কোনোভাবে সাহায্য করা যায়??
+Q: What is the maximum amount of contribution for a needy person?
+A: The maximum contribution amount for a needy person depends on their relationship or connection with the person seeking assistance. The eligible criteria and maximum contribution percentages are as follows:
+- Level 1: Family members (father, mother, spouse, child) - 40%
+- Level 2: Close friends and blood relatives (maternal and paternal aunt/uncle) - 30%
+- Level 3: Colleagues and close neighbors - 20%
+- Level 4: Others - 10%
+
+Exception: The maximum bar may be updated based on the situation.
+Q: Who are the contributors?
+A: The contributors to the contribution fund at Exabyting are members of the company's compassionate community. They are individuals willing to assist and support those in need within the organization.
+Q: How do I contribute here?
+A: Currently, two types of contributors are monthly and one-time. Anyone who wants to contribute regularly should go for monthly contributions; otherwise, one-time. An email needs to be sent to accounts@exabyting.com with cc your line manager. A sample example is shown below.
+
+Monthly Example
+
+Hello,
+
+I want to contribute every month to the contribution fund. Please deduct 1,000 /= BDT from my salary from July 2023 till July 2024.
+
+Thanks
+Redwan
+
+One Time Example
+
+Hello,
+
+I want to make a one-time contribution to the contribution fund. Please deduct 1,000 /= BDT from my salary in July 2023.
+
+Thanks
+Redwan
+Q: How to cancel your contribution subscription?
+A: If a contributor wants to discontinue the contribution needs to send a mail to cancel the existing subscription.
+
+Subscription Cancel Example
+
+Hello,
+
+I have an active subscription from July 2023 till July 2024. I want to cancel my regular contribution from Nov 2023.
+
+Thanks
+Redwan
+
+
+
+To join in contributors' slack channel
+
+#contributors
+or
+https://app.slack.com/client/T018BD6920K/C049GQGQ4EB
+ TAX return
+How to submit a tax return?
+	•	Usually, one needs the following documents to submit the tax:
+	•	Salary statement of the last fiscal year. You can collect by following the document collection process.
+	•	Bank statement: either from online banking or bank.
+	•	Last year’s submission details (if any).
+	•	Tax Lawyer: if you are looking for a lawyer, contact Mr. Shakil by email: “at shakil.ca11@gmail.com” or cell: 01611122344. Please mention that Ron of Exabyting referred you. His starting fee is BDT 2,000/-. Please be informed of the following:
+	•	As Mr. Shakil is not an employee/partner of Exabyting, Exabyting can’t take any liabilities. However, we find him helpful & skillful for the job till now. For any issue you face, feel free to inform “admin@exabyting.com” so we can try to address the issue.
+	•	Please take the original copy of the acknowledgment after the submission & the full submission’s photocopy.
+	•	The employee himself will bear the service fee.
+How to request official documents, eg, salary/experience certificate, etc.?
+	•	Mail to “admin@exabyting.com,” keeping your line manager in CC.
+	•	You should receive the requested documents in 3 working days if the document template is already in our repository. Any document outside of our repository might take up to 7 days & subject to the assessment of the requested document’s use case & purpose.
+Where can I get my employee ID?
+	•	Please check this page.
+How to switch a team member?
+	•	The current team lead should discuss the reason behind the change with the resource & future team lead in a meeting.
+	•	After conclusion, the current team lead should mail to “admin@exabyting.com”, CCing the resource and the new team leader for official confirmation.
+bKash
+Onboarding process
+How to onboard in bKash
+	•	Please follow the document   [Suppose you have any future queries or confusion. Please contact your Exabyting line manager.]
+
+
+Leave Process
+How to leave a request
+For planned leave, mail should be sent before the leave, and for emergency, sick, or other leave, mail can be sent on the leave day or on the day of rejoining.  Email Template: Sample 
+	•	Recipient:  To: [Your bKash Team Lead Email], [Your bKash DL Email]  CC: propa.hossain@bkash.com, ahmed.arefin@bkash.com, junaied.inflack@bkash.com, [Your Exabyting Team Lead Email]
+	•	Email Subject: Request for leave approval (ASP)
+	•	ASP Name(Mentioned in the provided Template) :  Exabyting Technologies
+	•	End date should be the same date as start date for one day leave.
+	•	You must use your bKash email for a leave request.
+	•	Need to apply for a leave in the Aladin App as well.
