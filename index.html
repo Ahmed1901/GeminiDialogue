@@ -30,6 +30,8 @@
         document.getElementById('user-input').value = '';
         document.getElementById('user-input').disabled = true;
         document.getElementById('send-button').disabled = true;
+        const chatOutput = document.getElementById('chat-output');
+        chatOutput.value += "User: " + userInput + '\n\n';
 
 
         fetch('http://localhost:4000/ask/', {
@@ -41,8 +43,6 @@
         })
         .then(response => response.json())
         .then(data => {
-            const chatOutput = document.getElementById('chat-output');
-            chatOutput.value += "User: " + userInput + '\n\n';
             chatOutput.scrollTop = chatOutput.scrollHeight;
 
             chatOutput.value += "Retriever: " + data.answer + '\n\n';
