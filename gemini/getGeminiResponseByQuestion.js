@@ -3,7 +3,7 @@ const {chatHistory} = require("./resources");
 
 const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 
-async function getGeminiResponseByQuestion(question) {
+const getGeminiResponseByQuestion = async (question) => {
     const model = genAI.getGenerativeModel({ model: "gemini-pro"});
 
     const chat = model.startChat({

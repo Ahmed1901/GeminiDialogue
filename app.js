@@ -1,14 +1,17 @@
-const express = require('express');
 require('dotenv').config();
+const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
+const path = require("node:path");
 const {getGeminiResponseByQuestion} = require("./gemini/getGeminiResponseByQuestion");
+
 const port = process.env.PORT || 4000;
 
 const app = express();
-app.use(cors());
 
+app.use(cors());
 app.use(bodyParser.json());
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.post('/ask', async (req, res) => {
   const question = req.body.question;
@@ -24,11 +27,7 @@ app.post('/ask', async (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
-app.get('/ping/', (req, res) => {
-  res.send('pong')
-})
-
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
 
 app.listen(port, () => console.log(`Server listening on port ${port}`));
