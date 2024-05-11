@@ -39,6 +39,7 @@ body {
     height: calc(100vh - 230px);
     margin: 20px auto;
     padding: 20px;
+    overflow-y: scroll;
 }
 .chat-form-container {
 
@@ -50,9 +51,16 @@ body {
     width: auto;
     min-width: 50px;
     max-width: 80%;
+    transition: all 300ms ease;
+}
+
+.message a {
+    color: #000;
+    text-decoration: none;
 }
 
 .message.typing {
+    background-color: #555;
     font-style: italic;
     color: #bbb;
 }
@@ -76,17 +84,21 @@ body {
     justify-content: center;
     align-items: center;
 }
-.form-control {
+#newMessage {
     border-radius: 25px;
     padding: 15px 20px;
     background-color: #2d2d2d;
     border: none;
     color: #fff;
 }
-.form-control::placeholder {
+#newMessage:disabled {
+    background-color: #555;
     color: #777;
 }
-.form-control:focus {
+#newMessage::placeholder {
+    color: #777;
+}
+#newMessage:focus {
     background-color: #3d3d3d;
     color: #fff;
     box-shadow: none;
