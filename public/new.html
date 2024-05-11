@@ -19,8 +19,8 @@
         </div>
     </div>
     <div class="chat-history-container">
-        <div class="message system-message">Hello! How can I help you today?</div>
-        <div class="message user-message">How can I apply for a leave?</div>
+        <div class="message system-message typing"></div>
+        <div class="clearfix"></div>
         <!-- This is where new messages will be appended -->
     </div>
     <div class="chat-form-container">
@@ -34,18 +34,6 @@
 
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-<script>
-    $(document).ready(function() {
-        $('#chat-form').submit(function(event){
-            event.preventDefault()
-            const newMessageInput = $('#newMessage')
-            const message = newMessageInput.val();
-            if (message.trim() !== '') {
-                $('.chat-history-container').append('<div class="message user-message">' + message + '</div>');
-                newMessageInput.val('');
-            }
-        });
-    });
-</script>
+<script src="newScript.js"></script>
 </body>
 </html>
