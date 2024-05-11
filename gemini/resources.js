@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const externalData = fs.readFileSync('./data.txt', 'utf8');
+const externalData = fs.readFileSync('./gemini/context.txt', 'utf8');
 
 const context = " Context: " + externalData;
 

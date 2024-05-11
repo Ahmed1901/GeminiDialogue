@@ -82,5 +82,3 @@ const getGeminiResponseByQuestion = async (question) => {
         }, 5000);
     }
 }
-
-// if I don't have the health claim credentials, where should I email to?
