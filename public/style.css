@@ -36,11 +36,18 @@ body {
 .chat-history-container {
     background: #2d2d2d;
     border-radius: 25px;
-    height: calc(100vh - 230px);
+    height: calc(100vh - 260px);
     margin: 20px auto;
     padding: 20px;
     overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer & Edge */
 }
+
+.chat-history-container::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Opera */
+}
+
 .chat-form-container {
 
 }
