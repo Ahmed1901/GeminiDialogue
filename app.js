@@ -1,33 +1,44 @@
 require('dotenv').config();
-const express = require('express');
-const bodyParser = require('body-parser');
-const cors = require('cors');
 const path = require("node:path");
 const {getGeminiResponseByQuestion} = require("./gemini/getGeminiResponseByQuestion");
+const { App } = require("@slack/bolt");
 
-const port = process.env.PORT || 4000;
 
-const app = express();
+const app = new App({
+    token: process.env.TOKEN,
+    signingSecret: process.env.SIGNING_SECRET,
+    socketMode:true,
+    appToken: process.env.APP_TOKEN
+});
+app.command("/ask", async ({ command, ack, say }) => {
+    try {
+      await ack();
+      let txt = command.text
+      if(txt==="") {
+          say("Empty input is not allowed")
+      } else {
+          const response = await getGeminiResponseByQuestion(txt);
+          console.log("Answer sent to client.");
+          say(response);
+      }
+    } catch (error) {
+      console.log("err")
+      console.error(error);
+    }
+});
 
-app.use(cors());
-app.use(bodyParser.json());
-app.use(express.static(path.join(__dirname, 'public')));
-
-app.post('/ask', async (req, res) => {
-  const question = req.body.question;
-
-  try {
-    const answer = await getGeminiResponseByQuestion(question);
+app.message(async ({ message, say }) => {
+    try {
+    console.log(message.text);
+    const response = await getGeminiResponseByQuestion(message.text);
     console.log("Answer sent to client.");
-    res.json({answer})
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: 'Something went wrong!' });
-  }
+      say(response);
+    } catch (error) {
+        console.log("err")
+      console.error(error);
+    }
 });
 
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});
 
-app.listen(port, () => console.log(`Server listening on port ${port}`));
+
+app.start(3000)
